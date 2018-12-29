@@ -1,6 +1,7 @@
 # Soma
 
 [![Build Status](https://dev.azure.com/plus-postech/soma/_apis/build/status/PLUS-POSTECH.soma?branchName=master)](https://dev.azure.com/plus-postech/soma/_build/latest?definitionId=1?branchName=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPLUS-POSTECH%2Fsoma.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FPLUS-POSTECH%2Fsoma?ref=badge_shield)
 
 Your one-stop CTF problem management tool
 
@@ -34,6 +35,9 @@ Licensed under either of
 - MIT license ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
 at your option.
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPLUS-POSTECH%2Fsoma.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPLUS-POSTECH%2Fsoma?ref=badge_large)
 
 ### Contribution
 
